@@ -7,18 +7,18 @@
 아두이노는 C언어 기반으로 소스코드를 작성하지만 라즈베리파이는 다양한 언어를 사용할 수 있다.
 
 ## 탐구활동 2.
-|HDD||SSD||
+|HDD 장점|HDD 단점|SSD 장점|SSD 단점|
 ---|---|---|---|
-장점|단점|장점|단점|
-장점|단점|장점|단점|
-
-
-|             |          Grouping           ||
-First Header  | Second Header | Third Header |
- ------------ | :-----------: | -----------: |
-Content       |          *Long Cell*        ||
-Content       |   **Cell**    |         Cell |
-
-New section   |     More      |         Data |
-And more      | With an escaped '\|'         ||  
-[Prototype table]
+저렴하다, 대용량|SSD에 비해 느리다.
+원하는 데이터를 읽으려면 순차접근을 해야한다.
+진동이나 충격의 영향을 받기 쉽다.
+|HDD보다 빠르다.
+Random access가 가능하다
+소음이 적다.
+소비전력이 적다
+진동이나 충격의 영향을 받지 않는다.
+|비싸고 용량이 적다
+HDD와 비교하면 수명이 짧다
+장시간 사용하지 않으면 자연방전에 의해 데이터가 사라질수있다.
+물리적인 구동부가 없다
+|

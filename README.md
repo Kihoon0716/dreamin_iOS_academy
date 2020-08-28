@@ -20,3 +20,30 @@
 |Git|Github|
 ---|---|
 git은 분산버전관리 시스템중의 하나입니다.|github은 git을 활용하여 진행하는 프로젝트를 업로드할 수 있게 해주는 서비스중 하나입니다.|
+
+# 2주차 온라인 강의
+
+## 인터넷은 어떻게 동작할까?
+
+### [ 탐구활동 1 ] 컴퓨터가 서버와 통신하는 과정을 설명하세요. (프로토콜마다 패킷의 크기는 다릅니다.)
+1. DNS 서버(Domain Name System, 도메인 이름을 IP 주소로 변환해주는 server or system)
+우리가 브라우저 주소창에 도메인 주소를 입력하면 DNS서버에서 IP주소로 변환해준다.
+2. 클라이언트/서버 모델에서 주료 사용되는 프로토콜은 TCP/IP 프로토콜입니다.
+
+###  [ 탐구활동 2 ] IPv4와 IPv6를 사용하는 이유와 특징들에 대해서 적어보세요.
+IPV4는 32비트 IP주소이다 32비트로는 약 40억개의 IP주소를 표현할 수 있는데 인터넷 사용자가 기하급수적으로 늘어나면서 128비트인 IPV6가 도입된다.
+
+### [ 탐구활동 3 ] GET과 POST의 3가지 차이점을 설명해 보세요.
+1. get은 가져오는 것이고 post는 수행하는 것이다.
+2. Get은 정보를 url에 포함시켜 전송하고 post는 body에 숨겨서 전송한다.
+3. get은 길이제한이 있고 post는 큰 데이터를 전송할때 유용하다.
+
+
+## Git
+
+### [탐구활동 1] Merge 충돌 후 해결한 github 링크를 공유해 주세요. 그 과정에서 학습한 내용을 적어 봅니다.(예제: https://github.com/PACMAN-X/Foods/commits/master)
+- https://github.com/Kihoon0716/dreamin_iOS_academy/network
+
+### [탐구활동 2] Github 페이지 만들어서 링크를 공유해 주세요.
+(예제: https://pacman-x.github.io/Foods/)
+- https://kihoon0716.github.io/kihoon.github.io/
